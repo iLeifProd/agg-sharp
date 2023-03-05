@@ -35,7 +35,6 @@
   </PropertyGroup>
   <ItemGroup>
     <ProjectReference Include="..\..\agg\Agg.csproj" />
-    <ProjectReference Include="..\..\clipper_library\clipper_library.csproj" />
     <ProjectReference Include="..\..\DataConverters2D\DataConverters2D.csproj" />
     <ProjectReference Include="..\..\Gui\Gui.csproj" />
     <ProjectReference Include="..\..\PlatformWin32\PlatformWin32.csproj" />

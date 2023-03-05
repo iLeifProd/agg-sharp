@@ -22,4 +22,8 @@
     <PackageReference Include="Microsoft.Extensions.DependencyInjection" Version="7.0.0" />
   </ItemGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\..\geometry3Sharp\geometry3Sharp\geometry3Sharp.csproj" />
+  </ItemGroup>
+
 </Project>

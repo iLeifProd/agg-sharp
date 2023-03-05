@@ -26,7 +26,7 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\clipper_library\clipper_library.csproj" />
+    <ProjectReference Include="..\ClipperExtensions\ClipperExtensions.csproj" />
   </ItemGroup>
 
   <ItemGroup>
